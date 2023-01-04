@@ -2,14 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PhoneCallAudio : MonoBehaviour
+public class AudioScript : MonoBehaviour
 {
-    AudioSource myaudio;
+    AudioSource myAudio;
 
     // Use this for initialization
     void Start()
     {
-        myAudio = GetComponant<AudioSource>();
+        myAudio = GetComponent<AudioSource>();
         Invoke("playAudio",2.0f);
 
     }

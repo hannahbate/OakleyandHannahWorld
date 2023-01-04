@@ -7,6 +7,6 @@
 	}
 	else
 	{
-		Canvas.SetActive(true);
+	Canvas.SetActive(true);
 	}
 }
