@@ -7795,7 +7795,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 338302973}
   m_LocalRotation: {x: -0, y: -0.5068816, z: -0, w: 0.8620157}
-  m_LocalPosition: {x: 3.6760454, y: -7.1991153, z: 5.122884}
+  m_LocalPosition: {x: 3.6760454, y: -6.86, z: 5.122884}
   m_LocalScale: {x: 1.9610369, y: 0.09504155, z: 1.6951638}
   m_Children: []
   m_Father: {fileID: 410585395}
@@ -7835,7 +7835,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: page3
+          m_StringArgument: page3edit
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 490073030}
@@ -8636,7 +8636,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wishing
+          m_StringArgument: wishingedit
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 490073030}
@@ -8850,7 +8850,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: id
+          m_StringArgument: idedit
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 490073030}
@@ -21646,23 +21646,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -5508281286743605765, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9997314
       objectReference: {fileID: 0}
     - target: {fileID: -5508281286743605765, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -5508281286743605765, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.023176132
       objectReference: {fileID: 0}
     - target: {fileID: -5508281286743605765, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -5508281286743605765, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 2.656
       objectReference: {fileID: 0}
     - target: {fileID: -2457658070357299380, guid: ffdba33486b3670418e793ddcf849580, type: 3}
       propertyPath: m_LocalPosition.y
@@ -21694,8 +21694,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.52, y: 0.69, z: 0.88}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.52, y: 0.7156977, z: 1.4445633}
+  m_Center: {x: -5.784714e-10, y: 0.012849124, z: 0.2822825}
 --- !u!4 &1293377647 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0fb7b6a0d03819948a353060a1208e21, type: 3}
@@ -23322,7 +23322,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bbd7cba6d9cddc8418fadf9c4c485e2c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbd7cba6d9cddc8418fadf9c4c485e2c, type: 3}
@@ -24050,7 +24050,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1507845106}
   m_LocalRotation: {x: -0, y: -0.75486445, z: -0, w: 0.6558809}
-  m_LocalPosition: {x: 1.0060374, y: -7.1991153, z: 5.792846}
+  m_LocalPosition: {x: 1.0060374, y: -6.97, z: 5.792846}
   m_LocalScale: {x: 1.8829236, y: 0.091255814, z: 1.6276414}
   m_Children: []
   m_Father: {fileID: 410585395}
@@ -24090,7 +24090,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: page1
+          m_StringArgument: page1edit
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 490073030}
@@ -26792,7 +26792,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1838029631}
   m_LocalRotation: {x: -0, y: -0.42500198, z: -0, w: 0.90519243}
-  m_LocalPosition: {x: 1.6760442, y: -14.899116, z: -11.65712}
+  m_LocalPosition: {x: 1.6760442, y: -14.22, z: -11.65712}
   m_LocalScale: {x: 1.5117, y: 0.04079255, z: 2.357469}
   m_Children: []
   m_Father: {fileID: 477155562}
@@ -27363,7 +27363,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1898579656}
   m_LocalRotation: {x: -0, y: -0.48446178, z: -0, w: 0.8748124}
-  m_LocalPosition: {x: 1.7760466, y: -7.1991153, z: 3.3029172}
+  m_LocalPosition: {x: 1.7760466, y: -7.03, z: 3.3029172}
   m_LocalScale: {x: 1.9714918, y: 0.09554826, z: 1.7042011}
   m_Children: []
   m_Father: {fileID: 410585395}
@@ -27403,7 +27403,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: page2
+          m_StringArgument: page2edit
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 490073030}
