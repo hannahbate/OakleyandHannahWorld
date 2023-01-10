@@ -5,7 +5,7 @@ using UnityEngine;
 public class deskdoor : MonoBehaviour
 {
     // Start is called before the first frame update
-    private GameObject door;
+    [SerializeField] private GameObject door;
     private Animator animation;
     void Start()
     {
